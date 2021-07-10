@@ -20,8 +20,20 @@ Implementation of the QUEUE Data Structure has been done using tow approaches: (
 
 The contacts have been saved in a txt file. The program prompts the user:
 
+- Insert Contacts
 - Display all the Contacts
 - Search a Contact
 - Display the first Contact
 - Display the last Contact
 - Duplicate Contact (if found)
+
+<table>
+     <tr>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/Options.png?raw=true" /><br /><center><b>New Player</b></center></td>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/insert.png?raw=true" /><br /><center><b>Old Player</b></center></td>
+     </tr>
+     <tr>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/display.png?raw=true" /><br /><center><b>Unsolved Sudoku</b></center></td>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/search.png?raw=true" /><center><b>Solved Sudoku</b></center></td>
+     </tr>
+ </table>
