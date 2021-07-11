@@ -29,11 +29,11 @@ The contacts have been saved in a txt file. The program prompts the user:
 
 <table>
      <tr>
-          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/Options.png?raw=true" /><br /><center><b>New Player</b></center></td>
-          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/insert.png?raw=true" /><br /><center><b>Old Player</b></center></td>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/Options.png?raw=true" /><br /><center><b>Options</b></center></td>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/insert.png?raw=true" /><br /><center><b>Insertions</b></center></td>
      </tr>
      <tr>
-          <td><img width = 200 height=auto src="https://github.com/iyashk/DSA-Project/blob/main/img/display.png?raw=true" /><br /><center><b>Unsolved Sudoku</b></center></td>
-          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/search.png?raw=true" /><center><b>Solved Sudoku</b></center></td>
+          <td><img width = 400 height=auto src="https://github.com/iyashk/DSA-Project/blob/main/img/display.png?raw=true" /><br /><center><b>Display</b></center></td>
+          <td><img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/search.png?raw=true" /><center><b>Search</b></center></td>
      </tr>
  </table>
