@@ -34,6 +34,6 @@ The contacts have been saved in a txt file. The program prompts the user:
      </tr>
      <tr>
           <td><img width = 400 height=auto src="https://github.com/iyashk/DSA-Project/blob/main/img/display.png?raw=true" /><br /><center><b>Display</b></center></td>
-          <td><img width = 200 height=auto src="https://github.com/iyashk/DSA-Project/blob/main/img/search.png?raw=true" /><center><b>Search </b><br></center></td>
+          <td><img width = 200 height=auto src="https://github.com/iyashk/DSA-Project/blob/main/img/search.png?raw=true" /><br /> <center><b>Search </b></center></td>
      </tr>
  </table>
