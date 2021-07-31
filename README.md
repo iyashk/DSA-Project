@@ -13,7 +13,7 @@ Data Structures used:
 The program asks for the user to perform some operations and it displays them as follows:
 
 <p align="center">
-<img src="https://github.com/iyashk/DSA-Project/blob/main/img/Queue.png?raw=true" />
+<img height = 200 width = auto src="https://github.com/iyashk/DSA-Project/blob/main/img/Queue.png?raw=true" />
 </p>
 
 ## Phone Directory
